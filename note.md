@@ -1,1 +1,2 @@
 - Show log Gc : -verbose:gc -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -Xmx15m
+- -XX:StringTableSize=1009 : set size default của hashmap string pool
